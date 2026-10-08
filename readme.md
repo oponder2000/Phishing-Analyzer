@@ -4,7 +4,7 @@ An interactive, defensive cybersecurity application built in Python that perform
 
 ---
 
-![Repository Banner](assets/banner.png)
+<img width="331" height="70" alt="Screenshot 2026-10-08 175624" src="https://github.com/user-attachments/assets/c690f79e-af57-4064-a6d5-1f4ec4592d72" />
 
 ---
 
@@ -40,19 +40,29 @@ This tool is designed to support phishing awareness education and technical trai
 ## Screenshots & Visual Demonstration
 
 ### 1. Security Dashboard
-![Web Dashboard](assets/web_dashboard.png)
+<img width="1399" height="815" alt="Screenshot 2026-10-08 175321" src="https://github.com/user-attachments/assets/2c4e1218-5a2d-44ea-bc43-aa46b06ffe94" />
 *The Web GUI presents samples categorized into real-world and synthetic corpora, sorted top-to-bottom by risk score.*
 
 ---
 
 ### 2. Evidence-Backed Findings
-![Evidence Proof](assets/evidence_proof.png)
+<img width="1428" height="1051" alt="Screenshot 2026-10-08 175410" src="https://github.com/user-attachments/assets/1cf24235-5ab9-4409-9ed9-3738b9a119c6" />
+<br>
+<br>
+<img width="850" height="727" alt="Screenshot 2026-10-08 175425" src="https://github.com/user-attachments/assets/9d21cd64-85bc-4a89-bfa4-d5c8110bac10" />
+<br>
+<br>
+<img width="851" height="830" alt="Screenshot 2026-10-08 175435" src="https://github.com/user-attachments/assets/fbe78c3a-172d-4172-b004-e8ce30c28c8d" />
+<br>
+<br>
 *Each finding includes the exact snippet or header value extracted from the email as proof of suspicious activity.*
 
 ---
 
 ### 3. Command Line Interface
-![CLI Output](assets/terminal_output.png)
+<img width="641" height="227" alt="Screenshot 2026-10-08 175537" src="https://github.com/user-attachments/assets/07b3e719-8061-487d-af66-a729fb0db1e1" />
+<img width="2582" height="561" alt="Screenshot 2026-10-08 175612" src="https://github.com/user-attachments/assets/f275af9c-9185-4eab-a694-f66cd8d37720" />
+
 *Command-line interface providing color-coded risk summaries and defanged Indicators of Compromise (IOCs).*
 
 ---
